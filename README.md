@@ -122,7 +122,7 @@ GO
 y le dan a ejecutar.
 
 ## Esta es mi tablas y base de datos BD_TiendaAlexa. 
-![img-6](imagene\img6.png)
+<img src="imagene/img6.png" width="500" alt="img-6">
 
 asi se deberia ir viendo tu new guery. 
 
@@ -171,14 +171,14 @@ Consulta que muestra todos los registros guardados en la tabla de auditoría.
 
 ## Paso 3: Ya que tenemos nuestra base de datos y tablas  creadas vamos a empezar. 
 crearemos nuetros tigger
-![img5](imagene\img5.png)
+<img src="imagene/img5.png" width="500" alt="img-6">
 
 
 ## Explicacion del codigo.
 El código crea un trigger que se activa automáticamente después de insertar un registro en una tabla. Su función es ejecutar una acción definida, como registrar información en otra tabla. Utiliza una tabla virtual interna para acceder a los datos insertados y generar un mensaje o acción relacionada. Esto permite automatizar tareas sin intervención del usuario y mantener un registro consistente dentro de la base de datos.
 
 ## Este seria el resultado final.
-![img7](imagene\img7.png)
+<img src="imagene/img7.png" width="500" alt="img-6">
 
 
 ## Características de un Trigger.
